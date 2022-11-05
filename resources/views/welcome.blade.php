@@ -5,7 +5,7 @@
 <div class="h-screen" >
     <x-cards></x-cards>
 </div>
-<div class="h-screen" >
+<div class="h-screen " >
     <x-contact ></x-contact>
 </div>
 @endsection
