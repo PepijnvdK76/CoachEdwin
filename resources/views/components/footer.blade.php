@@ -1,18 +1,12 @@
-<footer class="page-footer left-0 z-20 p-4 w-full bg-white border-t border-gray-200 shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 dark:border-gray-600">
-    <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://flowbite.com/" class="hover:underline">Flowbite™</a>. All Rights Reserved.
-    </span>
-    <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
-        <li>
-            <a href="#" class="mr-4 hover:underline md:mr-6 ">About</a>
-        </li>
-        <li>
-            <a href="#" class="mr-4 hover:underline md:mr-6">Privacy Policy</a>
-        </li>
-        <li>
-            <a href="#" class="mr-4 hover:underline md:mr-6">Licensing</a>
-        </li>
-        <li>
-            <a href="#" class="hover:underline">Contact</a>
-        </li>
-    </ul>
+<footer class="page-footer text-center pb-2 ">
+    <div class="gap-8">
+        <a class="pr-8">@ 2023 door PepijnK</a>
+        <a href="#top">
+        <button class="group w-12 h-12 bg-green-500 hover:bg-white border-green-500 border-2 items-center ">
+            <i class="fa-sharp fa-solid fa-arrow-up text-white group-hover:text-green-500"></i>
+        </button>
+        </a>
+            <a class="pl-8 pr-3" href="#">Cookiebeleid</a>
+            <a href="#">Privacybeleid</a>
+    </div>
 </footer>

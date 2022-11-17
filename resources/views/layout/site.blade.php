@@ -19,23 +19,22 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.3/dist/flowbite.min.css" />
+    <script src="https://kit.fontawesome.com/a7a49a6bd8.js" crossorigin="anonymous"></script>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
 </head>
-{{--<body class="bg-slate-800">
-    @include('components.header')
-    <main class="page-body bg-white container-sm pt-4">
-        @yield('content')
-    </main>
-    @include('components.footer')
-</body>--}}
 <body>
-    <div class="wrapper dark:bg-gray-800">
+    <div class="wrapper z-10 h-fit w-full " style=" background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(209,209,209,0.9780112728685224) 30%, rgba(93,166,94,0.9) 60%, rgba(35,134,36,0.8) 100%);             ">
+        <video id="background-video" class="h-screen w-screen object-cover   fixed inset-0 -z-50" autoplay loop muted poster="{{ Vite::asset('resources/media/video.mp4') }}">
+            <source src="{{ Vite::asset('resources/media/video.mp4') }}" type="video/mp4">
+        </video>
         @include('components.header')
-        <main class="page-body dark:bg-slate-700 bg-gray-50 mt-20 container mx-auto">
-        @yield('content')
+        <main class="page-body" id="top">
+            @yield('content')
         </main>
         @include('components.footer')
     </div>
     <script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script>
+
 </body>

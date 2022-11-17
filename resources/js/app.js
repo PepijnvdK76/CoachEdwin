@@ -47,12 +47,15 @@ themeToggleBtn.addEventListener('click', function() {
     ======================================= */
 window.onscroll = function () {
     const header_navbar = document.querySelector(".navbar-area");
+    const header_padding = document.querySelector(".headerPadding");
     const sticky = header_navbar.offsetTop;
 
     if (window.pageYOffset > sticky) {
-        header_navbar.classList.add("sticky");
+        header_navbar.classList.add("sticky")
+        header_padding.classList.add("headerTransition")
     } else {
-        header_navbar.classList.remove("sticky");
+        header_navbar.classList.remove("sticky")
+        header_padding.classList.remove("headerTransition")
     }
 };
 /*// for menu scroll

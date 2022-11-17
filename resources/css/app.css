@@ -2,18 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+
 html, body {
     box-sizing: border-box !important;
     height: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
-    font-family: "Muli", sans-serif;
+    font-family: Trebuchet MS, serif;
 }
 
-.gradientBg{
-    background: rgb(34,195,158);
-    background: linear-gradient(25deg, rgba(34,195,158,1) 0%, rgba(196,253,45,1) 100%);
-}
+
 .wrapper {
     box-sizing: border-box!important;
     min-height: 100%;
@@ -27,6 +25,7 @@ html, body {
 .page-body {
     flex-grow: 1;
 }
+
 .sticky {
     color: black;
     position: fixed;
@@ -39,6 +38,24 @@ html, body {
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
 }
+.headerTransition{
+    padding: 0;
+    transition: all 0.3s ease-out 0s;
+}
+
+/* page content */
+h1, h2 {
+    color: white;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+
+
 
 
 
