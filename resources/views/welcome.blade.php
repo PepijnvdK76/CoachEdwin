@@ -3,243 +3,159 @@
 @section('content')
 
 <div class="container mx-auto px-5">
-
-    <h1 class="mt-60 text-8xl" >Coach Edwin</h1>
-    <h2 class="h-screen text-5xl">Welkom</h2>
-    <p >
-        Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,
-    </p>
-
-    <br><br>
-
-
-    <p>
-        a paragraph is half a page long,
-        etc. In reality, though, the unity
-        and coherence of ideas among
-        sentences is what constitutes a
-        paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        A paragraph is defined as “a group
-        of sentences or a single sentence
-        that forms a unit” (Lunsford and
-        Connors 116).
-    </p>
-
-
-    <br><br>
-
-    <p>
-        Length and appearance do not
-        determine whether a section in
-        a paper is a paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        For instance, in some styles of
-        writing, particularly journalistic
-        styles, a paragraph can be just
-        one sentence long. Ultimately, a
-        paragraph is a sentence or group of
-        sentences that support one main idea.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        In this handout, we will refer to this
-        as the “controlling idea,” because it
-        controls what happens in the rest
-        of the paragraph.
-    </p>
+    <div class="h-screen text-center">
+        <h1 class="mt-96 text-8xl" >Coach Edwin</h1>
+        <h2 class=" text-5xl">Welkom</h2>
+        <button class=" group w-12 h-12 bg-green-500 hover:bg-white border-green-500 border-2 items-center mt-96">
+            <i class="fa-sharp fa-solid fa-arrow-down text-white group-hover:text-green-500"></i>
+        </button>
+    </div>
+    <div class="text-hidden flex flex-row">
+        <img class="w-96" src="https://www.rosssolar.com/wp-content/uploads/2017/08/image-placeholder.jpg" alt="">
+    <h1 class="text-5xl">Over mij</h1>
     <p>
         Paragraphs are the building blocks
         of papers. Many students define
         paragraphs in terms of length: a
         paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
         five sentences,
-    </p>
-
-    <br><br>
-
-
-    <p>
-        a paragraph is half a page long,
-        etc. In reality, though, the unity
-        and coherence of ideas among
-        sentences is what constitutes a
-        paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        A paragraph is defined as “a group
-        of sentences or a single sentence
-        that forms a unit” (Lunsford and
-        Connors 116).
-    </p>
-
-
-    <br><br>
-
-    <p>
-        Length and appearance do not
-        determine whether a section in
-        a paper is a paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        For instance, in some styles of
-        writing, particularly journalistic
-        styles, a paragraph can be just
-        one sentence long. Ultimately, a
-        paragraph is a sentence or group of
-        sentences that support one main idea.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        In this handout, we will refer to this
-        as the “controlling idea,” because it
-        controls what happens in the rest
-        of the paragraph.
-    </p><p>
+        </p>
+    </div>{{--<p>
         Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
         of papers. Many students define
         paragraphs in terms of length: a
         paragraph is a group of at least
         five sentences,
     </p>
-
-    <br><br>
-
-
-    <p>
-        a paragraph is half a page long,
-        etc. In reality, though, the unity
-        and coherence of ideas among
-        sentences is what constitutes a
-        paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        A paragraph is defined as “a group
-        of sentences or a single sentence
-        that forms a unit” (Lunsford and
-        Connors 116).
-    </p>
-
-
-    <br><br>
-
-    <p>
-        Length and appearance do not
-        determine whether a section in
-        a paper is a paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        For instance, in some styles of
-        writing, particularly journalistic
-        styles, a paragraph can be just
-        one sentence long. Ultimately, a
-        paragraph is a sentence or group of
-        sentences that support one main idea.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        In this handout, we will refer to this
-        as the “controlling idea,” because it
-        controls what happens in the rest
-        of the paragraph.
-    </p>
+    <br>
+    <br>
     <p>
         Paragraphs are the building blocks
         of papers. Many students define
         paragraphs in terms of length: a
         paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
         five sentences,
     </p>
-
-    <br><br>
-
-
+    <br>
+    <br>
     <p>
-        a paragraph is half a page long,
-        etc. In reality, though, the unity
-        and coherence of ideas among
-        sentences is what constitutes a
-        paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        A paragraph is defined as “a group
-        of sentences or a single sentence
-        that forms a unit” (Lunsford and
-        Connors 116).
-    </p>
-
-
-    <br><br>
-
-    <p>
-        Length and appearance do not
-        determine whether a section in
-        a paper is a paragraph.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        For instance, in some styles of
-        writing, particularly journalistic
-        styles, a paragraph can be just
-        one sentence long. Ultimately, a
-        paragraph is a sentence or group of
-        sentences that support one main idea.
-    </p>
-
-    <br><br>
-
-
-    <p>
-        In this handout, we will refer to this
-        as the “controlling idea,” because it
-        controls what happens in the rest
-        of the paragraph.
-    </p>
+        Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,Paragraphs are the building blocks
+        of papers. Many students define
+        paragraphs in terms of length: a
+        paragraph is a group of at least
+        five sentences,
+    </p>--}}
 </div>
 @endsection
