@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container mx-auto px-5">
+<div class="container mx-auto px-5 md:px-6">
     <div class="h-screen text-center">
         <h1 class="mt-96 text-8xl" >Coach Edwin</h1>
         <h2 class=" text-5xl">Welkom</h2>
@@ -10,8 +10,9 @@
             <i class="fa-sharp fa-solid fa-arrow-down text-white group-hover:text-green-500"></i>
         </button>
     </div>
-    <div class="text-hidden flex flex-row">
+    <div class="text-hidden grid grid-row-2 grid-cols-3 ">
         <img class="w-96" src="https://www.rosssolar.com/wp-content/uploads/2017/08/image-placeholder.jpg" alt="">
+        <div class="col-span-2">
     <h1 class="text-5xl">Over mij</h1>
     <p>
         Paragraphs are the building blocks
@@ -48,114 +49,7 @@
         paragraph is a group of at least
         five sentences,
         </p>
-    </div>{{--<p>
-        Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,
-    </p>
-    <br>
-    <br>
-    <p>
-        Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,
-    </p>
-    <br>
-    <br>
-    <p>
-        Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,Paragraphs are the building blocks
-        of papers. Many students define
-        paragraphs in terms of length: a
-        paragraph is a group of at least
-        five sentences,
-    </p>--}}
+    </div>
+    </div>
 </div>
 @endsection
