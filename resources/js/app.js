@@ -45,7 +45,7 @@ themeToggleBtn.addEventListener('click', function() {
 
         // if NOT set via local storage previously
     } else {
-        if (document.documentElement.classList.contains('dark')) {
+        if(document.documentElement.classList.contains('dark')) {
             document.documentElement.classList.remove('dark');
             localStorage.setItem('color-theme', 'light');
         } else {
